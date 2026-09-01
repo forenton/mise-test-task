@@ -1,0 +1,10 @@
+.env
+.idea/
+.pytest_cache/
+.coverage
+htmlcov/
+__pycache__/
+*.py[cod]
+.venv/
+bookings.db
+MISE_Тестовое_Trainee_Backend_Python.pdf
